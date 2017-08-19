@@ -6,3 +6,6 @@
 ### Application interface
 <img src="https://i.loli.net/2017/08/19/59983b985aaef.png" alt="PrSubtitle" width="350" />
 
+
+
+### 注：本软件不得用于商业用途，仅做学习交流。
