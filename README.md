@@ -3,12 +3,13 @@
 
 **Premiere Subtitles Generator**
 
-## install
+## Installing
 [download link](https://github.com/LewisTian/Premiere-Subtitle/releases)
 
 ### Application interface
 <img src="https://i.loli.net/2017/08/19/59983b985aaef.png" alt="PrSubtitle" width="350" />
 
 
-
-### 注：本软件不得用于商业用途，仅做学习交流。
+## Licence
+- [MIT](https://github.com/LewisTian/PremiereSubtitle/blob/master/LICENSE)
+- 本软件不得用于商业用途，仅做学习交流。
