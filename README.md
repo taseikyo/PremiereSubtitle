@@ -6,7 +6,7 @@
 ## Installing
 [download link](https://github.com/LewisTian/Premiere-Subtitle/releases)
 
-### Application interface
+### ScreenShot
 <img src="https://i.loli.net/2017/08/19/59983b985aaef.png" alt="PrSubtitle" width="350" />
 
 
