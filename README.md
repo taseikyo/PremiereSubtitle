@@ -9,6 +9,8 @@
 ### Screenshot
 <img src="https://i.loli.net/2017/08/19/59983b985aaef.png" alt="PrSubtitle" width="350" />
 
+### Video
+https://www.bilibili.com/video/av13555892/
 
 ## Licence
 - [MIT](https://github.com/LewisTian/PremiereSubtitle/blob/master/LICENSE)
