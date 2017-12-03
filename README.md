@@ -1,7 +1,8 @@
-# Premiere-Subtitle
+# Premiere Subtitle Generator
 <img src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=24b4e201dd3f8794d3ff4f28ea1a0ead/5bafa40f4bfbfbed1d9537c671f0f736aec31fbe.jpg" alt="Premiere" width="64">
 
-**Premiere Subtitles Generator**
+## Preview
+![preview.gif](https://i.loli.net/2017/12/03/5a23f6a9390f5.gif)
 
 ## Installing
 [download link](https://github.com/LewisTian/Premiere-Subtitle/releases)
