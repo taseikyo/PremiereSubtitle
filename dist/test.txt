@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Date    : 2019-05-02 22:38:28
+# @Author  : Lewis Tian (chtian@hust.edu.cn)
+# @Link    : https://lewistian.github.io/
+# @Version : Python3
+# @Description : generate a srt subtitle for premiere pro cc

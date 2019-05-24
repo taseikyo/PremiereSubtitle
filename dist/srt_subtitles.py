@@ -23,7 +23,10 @@ def main(interval):
                 m -= 60
                 h += 1
             if s + interval >= 60:
-                srt = f'''{index}\n{h}:{m:02}:{s:02}:000 --> {h}:{m+1:02}:{s+interval-60:02}:000\n{line}\n'''
+                if m + 1 >= 60:
+                    srt = f'''{index}\n{h}:{m:02}:{s:02}:000 --> {h+1}:{m+1-60:02}:{s+interval-60:02}:000\n{line}\n'''
+                else:
+                    srt = f'''{index}\n{h}:{m:02}:{s:02}:000 --> {h}:{m+1:02}:{s+interval-60:02}:000\n{line}\n'''
             else:
                 srt = f'''{index}\n{h}:{m:02}:{s:02}:000 --> {h}:{m:02}:{s+interval:02}:000\n{line}\n'''
             s += interval

@@ -1,5 +1,6 @@
+<img src="https://i.loli.net/2017/12/15/5a335c9e52d20.png" alt="Psg" height="120" align="right">
+
 # Premiere Subtitle Generator
-<img src="https://i.loli.net/2017/12/15/5a335c9e52d20.png" alt="Psg" width="64">
 
 ## Alternative
 由于从 pr cc 2017 就已经不再支持导出旧版字幕了，所以这个工具也宣告失效。当然你若是使用旧版的 pr 且能导出旧版字幕，那么这个小工具依然有效。
